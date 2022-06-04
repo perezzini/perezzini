@@ -1,4 +1,4 @@
-# Welcome! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+# Welcome! :wave:
 
 Glad you're here. My name is Luciano, currently living in Argentina.
 
