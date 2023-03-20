@@ -9,3 +9,5 @@ I __love__ to create new technology-based services and products, mainly from scr
 > "If you don't fail at least 90 percent of the time, you're not aiming high enough" — Alan Kay
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/perezzini)
+
+[> Schedule a call](https://zcal.co/perezzini)
