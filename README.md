@@ -10,4 +10,4 @@ I __love__ to create new technology-based services and products, mainly from scr
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/perezzini)
 
-[> Schedule a Call](https://zcal.co/perezzini)
+[> Schedule a Call](https://cal.com/perezzini)
