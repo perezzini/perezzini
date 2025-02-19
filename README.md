@@ -1,10 +1,10 @@
 # Welcome!
 
-Thank you for visiting. I'm Luciano, currently residing in Argentina.
+Hi, I'm Luciano, a technology enthusiast based in Argentina.
 
-I hold a Master's degree in Computer Science from the National University of Rosario, specializing in Information Retrieval and AI agents. You can find more details about my academic background [here](https://dcc.fceia.unr.edu.ar/~lperezzini).
+I hold a Master's degree in Computer Science from the [National University of Rosario](https://unr.edu.ar), specializing in **Information Retrieval** and **AI Agents**. My work revolves around designing and building innovative technology-driven products and services, often from the ground up, in collaboration with talented teams.
 
-My passion lies in crafting innovative technology-based services and products, often starting from the ground up, alongside dedicated teams. I've contributed to diverse projects involving AI, Cloud Computing, Natural Language Processing, XaaS, RegTech, LegalTech, and AgTech.
+I've contributed to projects spanning AI, Cloud Computing, Natural Language Processing, XaaS, RegTech, LegalTech, and AgTech. My passion lies in transforming ideas into scalable solutions that make an impact.
 
 > "If you don't fail at least 90 percent of the time, you're not aiming high enough" — Alan Kay
 
